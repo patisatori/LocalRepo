@@ -6,4 +6,5 @@ Noga
 Domek
 Namiot
 Rower
-Szalas 2x
+Szalas
+
