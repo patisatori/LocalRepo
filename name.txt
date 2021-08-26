@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 John
+=======
+Ewelina
+>>>>>>> develop
