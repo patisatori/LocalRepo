@@ -5,4 +5,6 @@ Kwiatkowski
 Noga
 Domek
 Namiot
+Rower
 Szalas
+
