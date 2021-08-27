@@ -6,3 +6,5 @@ Noga
 Domek
 Namiot
 Szalas
+Kowalski
+Wick
