@@ -1,8 +1,5 @@
-Nowak
+<<<<<<< HEAD
+Wick
+=======
 Kowalski
-Zyla
-Kwiatkowski
-Noga
-Domek
-Namiot
-Szalas
+>>>>>>> develop
